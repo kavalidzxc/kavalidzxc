@@ -13,8 +13,6 @@ project-folder/
 ├── index.html
 ├── css/
 │   └── style.css
-├── js/
-│   └── script.js
 ├── img/
 │   └── (здесь будут изображения для сайта)
 └── README.md
